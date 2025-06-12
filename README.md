@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sid
+# Hi, I'm Sid
 
 I'm an Electrical Engineering & Computer Science + Business student at UC Berkeley MET, passionate about building products at the intersection of AI, systems, and user experience. I enjoy turning ideas into full-stack applications and scaling tools that make life better for myself and those around me.
 
