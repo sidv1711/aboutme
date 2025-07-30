@@ -1,20 +1,34 @@
-# Hi, I'm Sid
+# 👋 Hi, I'm Sid
 
-I'm an Electrical Engineering & Computer Science + Business student at UC Berkeley MET, passionate about building products at the intersection of AI, systems, and user experience. I enjoy turning ideas into full-stack applications and scaling tools that make life better for myself and those around me.
+I'm a dual-degree student in the UC Berkeley MET program studying Electrical Engineering & Computer Science + Business. I'm passionate about building tools at the intersection of AI, systems, and user experience — especially ones that solve real problems, run efficiently, and scale with purpose.
 
-### 🚀 What I'm Working On Right Now
-- 🛠 **Revyl** (YC W25): Designing Revy's MCP server for running mobile E2E tests on Cursor and Windsurf
-- 🍽️ **Nutrigenie**: Personalized, cost-efficient meal plans with grocery store integration
+---
 
-### 💡 Past Projects & Hackathons
-- 📊 **Slack Bot**: Regression engine to estimate car values using real-world data
-- 🔔 ** (Revyl) Slack Bot**: Bot for Slack servers that supports natural language queries and can interact conversationally; customized and released to Revyl’s B2B customers to offer instant access to test execution reports, insights and observability data via NLP-to-SQL parsing
-- 🤖 **Amigo AI**: NLP-powered tutoring tool to personalize learning and standardized test preparation
-- 🏆 CalHacks | TreeHacks participant
+## 🚀 What I'm Working On Now
 
-### 🧰 Tech Stack
-`Python` `JavaScript` `TypeScript` `React` `Node.js` `Docker` `MongoDB` `PostgreSQL` `PyTorch`
-🧠 AI Tools: `Cursor` `v0.dev` `Code Interpreter` `Copilot` `langChain` `ChatDB`
+- 🔬 **Revyl (YC W24)**: Interning at a Y Combinator-backed startup where I built a Model Context Protocol (MCP) server to orchestrate mobile E2E tests, reduced p95 latency by 40%, and deployed a Slackbot for real-time observability data retrieval.
+- 🗣 **CodeVox**: A mobile voice-first coding assistant using Whisper + Claude Code that generates patches from spoken commands; scaled to 150+ devs in 3 months.
+- 🧠 **LDT Compliance Copilot**: An AI agent that uses NVIDIA NeMo + LangChain to parse FDA/CLIA regulations and generate compliance gap reports in seconds.
 
-### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/siddharthv)
+---
+
+## 🛠 Recent Projects
+
+- 🍽 **NutriGenie**: Built an AI meal-planning agent that aligns macros, budgets, and fitness goals using grocery store APIs and OpenAI — scaled to 300+ users in 2 months.
+- 📚 **AmigoAI**: Created an adaptive SAT practice-test module and improved tutoring accuracy by 18% using retrieval-augmented generation.
+- 💪 **Uberlast**: Co-founded a personalized fitness app with pose estimation and progressive overload tracking — reached 25%+ 30-day retention.
+- 🔔 **Revyl Slackbot**: Built and deployed an NLP-to-SQL Slackbot to surface live service diagnostics, replacing a Grafana workflow and cutting triage cycles.
+
+---
+
+## 🧰 Tech Stack
+
+`Python` `TypeScript` `React` `Swift` `FastAPI` `LangChain` `Anthropic Claude`  
+`OpenAI API` `PostgreSQL` `Redis` `Docker` `AWS Lambda / EC2` `Firebase` `NVIDIA NeMo`  
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/siddharth-veerapaneni)
+- ✉️ Email: sidv@berkeley.edu
